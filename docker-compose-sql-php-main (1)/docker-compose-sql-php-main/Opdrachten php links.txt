@@ -1,0 +1,32 @@
+OPDRACHTEN BASICS---
+1 (datatypes opdracht 1) http://localhost:8082/opdrachtenphpbasics/opdracht1.php
+2 (variables opdracht 1) http://localhost:8082/opdrachtenphpbasics/opdracht2.php
+3 (variables opdracht 3) http://localhost:8082/opdrachtenphpbasics/opdracht3.php
+4 (variables opdracht 4) http://localhost:8082/opdrachtenphpbasics/opdracht4.php
+5 (strings opdracht   1) http://localhost:8082/opdrachtenphpbasics/opdracht5.php
+6 (strings opdracht   2) http://localhost:8082/opdrachtenphpbasics/opdracht6.php
+7 (strings opdracht   3) http://localhost:8082/opdrachtenphpbasics/opdracht7.php
+8 (numbers opdracht   1) http://localhost:8082/opdrachtenphpbasics/opdracht8.php
+9 (numbers opdracht   2) http://localhost:8082/opdrachtenphpbasics/opdracht9.php
+10(numbers opdracht   6) http://localhost:8082/opdrachtenphpbasics/opdracht10.php
+11(if-else opdracht   1) http://localhost:8082/opdrachtenphpbasics/opdracht11.php
+12(if-else opdracht   2) http://localhost:8082/opdrachtenphpbasics/opdracht12.php
+13(if-else opdracht   3) http://localhost:8082/opdrachtenphpbasics/opdracht13.php
+14(Operators opdracht 1) http://localhost:8082/opdrachtenphpbasics/opdracht14.php
+15(Operators opdracht 2) http://localhost:8082/opdrachtenphpbasics/opdracht15.php
+16(Operators opdracht 3) http://localhost:8082/opdrachtenphpbasics/opdracht16.php
+17(math opdracht      1) http://localhost:8082/opdrachtenphpbasics/opdracht17.php
+18(math opdracht      4) http://localhost:8082/opdrachtenphpbasics/opdracht18.php
+19(math opdracht      5) http://localhost:8082/opdrachtenphpbasics/opdracht19.php
+20(Switch opdracht    1) http://localhost:8082/opdrachtenphpbasics/opdracht20.php
+21(Switch opdracht    2) http://localhost:8082/opdrachtenphpbasics/opdracht21.php
+22(Switch opdracht    3) http://localhost:8082/opdrachtenphpbasics/opdracht22.php
+23(for each opdracht  1) http://localhost:8082/opdrachtenphpbasics/opdracht23.php
+ANDERE OPDRACHTEN---
+http://localhost:8082/overview.php
+http://localhost:8082/register.php
+http://localhost:8082/inlog.php
+http://localhost:8082/update.php
+
+DB CONNECTION---
+http://localhost:8082/partials/dbconnection.php
