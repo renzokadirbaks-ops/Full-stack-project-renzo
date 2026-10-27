@@ -6,20 +6,23 @@ if (!isset($_SESSION['loggedin'])) {
     exit();
 }
 
-$id = $_GET['id'] ?? null;
-
-if ($id === null) {
+if (!isset($_GET['id']) || !is_numeric($_GET['id'])) {
     header("Location: overview.php");
     exit();
 }
 
+$artikelId = $_GET['id'];
+
 $conn = require_once "partials/dbconnection.php";
 
-$stmt = $conn->prepare("DELETE FROM users WHERE id = ?");
-$stmt->bind_param("i", $id);
+$stmt = $conn->prepare("DELETE FROM voorraadbeheer WHERE artikel_id = ?");
+$stmt->bind_param("i", $artikelId);
+
 $stmt->execute();
+
 $stmt->close();
 $conn->close();
 
-header("Location: overview.php?msg=deleted");
+header("Location: overview.php");
 exit();
+?>

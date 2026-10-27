@@ -2,7 +2,7 @@
 $servername = "mysql";
 $username = "root";
 $password = "password";
-$database = "Inlogscherm";
+$database = "Circuleather Renzo";
 
 try {
     $conn = new mysqli($servername, $username, $password, $database);
